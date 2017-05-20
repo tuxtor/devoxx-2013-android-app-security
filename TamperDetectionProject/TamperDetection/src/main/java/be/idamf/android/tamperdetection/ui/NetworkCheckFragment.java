@@ -36,7 +36,7 @@ import be.idamf.android.tamperdetection.R;
  */
 public class NetworkCheckFragment extends Fragment {
 
-    public static final String HTTPS_TEST_URL = "https://android.maelbrancke.net";
+    public static final String HTTPS_TEST_URL = "https://vorozco.com";
 
     private static final String TAG = NetworkCheckFragment.class.getSimpleName();
 
